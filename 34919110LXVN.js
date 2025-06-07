@@ -1,5 +1,4 @@
 function handle34919110LXVN(resultElement) {
-    console.log("handle34919110LXVN function is running...");
     let result = {
         sender: 'Dae bong',
         country: 'Scotland',
@@ -14,15 +13,15 @@ function handle34919110LXVN(resultElement) {
         <p>SENDER ADDRESS: ${result.country}</p>
         <p>RECIEVERS NAME : ${result.receiver}</p>
         <p>DATE: ${result.date}</p>
-        <p><video id="local" 
-                src="live.mp4" autoplay muted loop></video> Live Location: ${result.location}</p>`;
+                <p><video id="local" 
+                src="live.mp4" autoplay muted loop></video>           Live Location: ${result.location}</p>`;
 
-    // Inject the LiveChat script
-    const liveChatScript = document.createElement('script');
-    liveChatScript.src = "https://js.hs-scripts.com/48170394.js"; // Use https explicitly
-    liveChatScript.async = true;
-    liveChatScript.defer = true;
-    document.body.appendChild(liveChatScript);
-
-    console.log("LiveChat script injected:", liveChatScript.src);
+    // Inject the LiveChat script danielpannet12@gmail.com
+    const livechatScript = document.createElement('script');
+    livechatScript.src = "//code.tidio.co/zylkg8ksc5mqtdng0vuusnoz95vfxxb0.js";
+    livechatScript.async = true;
+    document.body.appendChild(livechatScript);
 }
+
+
+
