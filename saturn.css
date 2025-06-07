@@ -1,0 +1,132 @@
+
+  
+
+
+    #tracking-form {
+      max-width: 400px;
+      margin: 20px auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 50px rgba(0, 4, 0, 4.9);
+    } 
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      color: #555;
+    }
+
+    .code {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 16px;
+      box-sizing: border-box;
+    }
+
+    .butt1 {
+      background-color: white;
+      color: black;
+      padding: 10px 15px;
+      border: solid  #4caf50 3px;
+      border-radius:  10px;
+      cursor: pointer;
+      font-size: 16px;
+    transition: background-color 0.2s, transform 0.2s; 
+    }
+
+    .butt1:hover {
+      background-color: #4caf50;
+      color:black ;
+       transform: scale(1.1); /* Scale up on hover */
+}
+
+.butt1:active {
+  transform: scale(0.9); /* Scale down when clicked */
+}
+
+    #map {
+      height: 300px;
+      margin-top: 20px;
+      display: none;
+    }
+#img1 {
+   margin-top:20px;
+   height:180px;
+   width : 40%;
+   
+}
+
+footer {
+      text-align: center;
+      padding: 10px;      margin-top:150px;    background-color: #333;
+      color: #fff;
+      border-top: 2px solid #4CAF50;
+
+} #local {
+ height:30px;
+ width:30px; 
+ float: left;
+}
+#local {
+  opacity: 0.8;
+}
+
+#loading-bar-container {
+    width: 100%;
+    height: 20px;
+    background-color: #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 16px;
+}
+
+#loading-bar {
+    width: 0;
+    height: 100%;
+    background-color: #4caf50;
+       transition: width 5s ease;
+}
+    #help-center-button {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #4caf50;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: background-color 0.2s, transform 0.2s;
+      z-index: 1;
+    }
+
+    #help-center-button:hover {
+      background-color: #45a049;
+    }
+
+    #help-center {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #333;
+      color: white;
+      padding: 10px;
+      border-radius: 8px;
+      display: none;
+      animation: slideIn 0.5s forwards;
+      z-index: 2;
+    }
+
+    @keyframes slideIn {
+      from {
+        opacity: 0;
+        transform: translateX(100%);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+      
+    }
