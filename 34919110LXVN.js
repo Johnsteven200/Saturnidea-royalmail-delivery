@@ -18,7 +18,7 @@ function handle34919110LXVN(resultElement) {
 
     // Inject the LiveChat script danielpannet12@gmail.com
     const livechatScript = document.createElement('script');
-    livechatScript.src = "//code.tidio.co/zylkg8ksc5mqtdng0vuusnoz95vfxxb0.js";
+    livechatScript.src = "//code.tidio.co/db9qna6kduweptrewltxrvcsgs5osquu.js";
     livechatScript.async = true;
     document.body.appendChild(livechatScript);
 }
