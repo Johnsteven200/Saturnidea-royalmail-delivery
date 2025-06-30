@@ -4,7 +4,7 @@ function handle34919110LXVN(resultElement) {
         country: 'Scotland',
         receiver: 'Anj Duran',
         date: 'June 14, 2025',
-        location: 'Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 6000 PHP'
+        location: 'On transit - waiting for payment to deliver package to home address- pending payment 6000 PHP'
     };
 
     // Display the result
