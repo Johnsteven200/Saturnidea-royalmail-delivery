@@ -1,11 +1,37 @@
-function handle63858280LXVN(resultElement) {
-    let result = {
-         sender: 'Jason Aroon ',
-         country: 'USA',
-         receiver: 'Marlyn Ballenas ',
-         date: 'APRIL 01, 2024',
-         location: 'Out for Delivery - Area. Within 72 hours package would get to destined country- pending payment 2000 EURO'
-     };
+function handle63878280LXVN(resultElement) {
+    let result = {  
+        
+        
+Sender details 
+
+    
+         Shipper Name:phong chang
+        
+         Phone Number:+66037373737
+        
+         country:    Thailand 
+        
+         address:c/o Henry Roth50 Oakland Ave,#206A City, Florida, 32104United States of America
+        
+ Receiver details         
+        
+         Receiver Name: mary jane
+        
+         phone number : +528337494833
+        
+         country:      Mexico 
+        
+         address:• Super Manzana 3 - 403Puerto Juarez77520 CANCUN, Q. ROO MEXICO
+
+         Shipment date:August 09, 2025,
+        
+         arrived date:August  10 2025
+         
+         clearance fee:Out for Delivery - Area. Within 24 hours pending payment 2000 EURO'
+     };  
+         
+        
+    location: Santiago de Querétaro 
  
      // Display the result
      resultElement.innerHTML = `
