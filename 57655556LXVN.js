@@ -1,9 +1,9 @@
 function handle57655556LXVN(resultElement) {
     let result = {
-        sender: 'Dae bong',
-        country: 'Scotland',
-        receiver: 'EMMA Ortiz ci',
-        date: 'Jan 19, 2024',
+        sender: 'phong chang
+        country: 'thailand',
+        receiver: María Fernanda Ortiz
+        date: 'Aug 13, 2025',
         location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $150'
     };
 
