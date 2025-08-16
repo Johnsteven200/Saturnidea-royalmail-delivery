@@ -1,10 +1,10 @@
 function handle06521379LXVN(resultElement) {
     let result = {
-        sender: 'Dae bong',
-        country: 'Scotland',
-        receiver: 'EMMA Ortiz ci',
-        date: 'Aug 09, 2025,
-        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $150'
+        sender: Oliver hooke'',
+        country: 'Dubai',
+        receiver: Tania lirian pomaquispe'',
+        date: 'Aug 16, 2025,
+        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of 500solos'
     };
 
     // Display the result
