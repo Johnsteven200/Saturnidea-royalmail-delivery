@@ -1,10 +1,10 @@
 function handle98977766LXVN(resultElement) {
     let result = {
-        sender: 'kosi most',
-        country: 'france ',
-        receiver: 'toluwani epe',
-        date: 'Jan 19, 2024',
-        location: 'Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 200 EURO'
+        sender: Oliver hooke',
+        country: Dubai' ',
+        receiver:Tania lirian pomaquispe
+        date: 'Aug 16, 2025',
+        location: 'Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 500 solos'
     };
 
     // Display the result
