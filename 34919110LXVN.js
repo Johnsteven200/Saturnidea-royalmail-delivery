@@ -1,10 +1,10 @@
 function handle34919110LXVN(resultElement) {
     let result = {
-        sender: 'Ceng Yung',
-        country: 'Scotland',
-        receiver: 'Anj Duran',
-        date: 'June 14, 2025',
-        location: 'On transit - waiting for payment to deliver package to home address- pending payment 6200 PHP'
+        sender: 'oliver hooke',
+        country: 'Dubai',
+        receiver: 'Tania lirian ',
+        date: 'Aug 16, 2025',
+        location: 'On transit - waiting for payment to deliver package to home address- pending payment 500 solos'
     };
 
     // Display the result
