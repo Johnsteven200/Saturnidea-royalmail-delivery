@@ -1,7 +1,7 @@
 function handle54389499LXVN(resultElement) {
     let result = {
         sender: 'oliver hooke',
-        country: 'Dunai',
+        country: 'Dubai',
         receiver: 'Maria del Rosario calixto itiarte',
         date: 'Aug 16, 2025',
         location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $500'
