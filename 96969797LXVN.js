@@ -1,10 +1,10 @@
 function handle96969797LXVN(resultElement) {
     let result = {
-        sender: '0Komi most',
-        country: 'france ',
-        receiver: 'toluwani epe',
-        date: 'Jan 19, 2024',
-        location: 'Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 200 EURO'
+        sender: 'Oliver hooke
+        country: Dubai'',
+        receiver: Tania lirian pomaquispe nuñe urco'',
+        date: 'Aug 16, 2025',
+        location: Perú 🇵🇪 Entrega en la zona. El paquete llegará al país de destino en 24 horas. Pago pendiente: 500 solos.
     };
 
     // Display the result
