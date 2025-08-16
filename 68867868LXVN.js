@@ -1,8 +1,9 @@
 function handle68867868LXVN(resultElement) {
     let result = {
-        sender: 'Dae bong',
+        sender: 'chong lee
         country: 'Scotland',
-        receiver: 'EMMA Ortiz ci',
+        receiver: 'EMMA Ortiz ci 
+        country ',peru
         date: 'Jan 19, 2024',
         location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $150'
     };
