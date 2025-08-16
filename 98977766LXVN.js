@@ -9,11 +9,11 @@ function handle98977766LXVN(resultElement) {
 
     // Display the result
     resultElement.innerHTML = `
-        <p>SENDER NAME: ${result.sender}</p>
-        <p>SENDER ADDRESS: ${result.country}</p>
-        <p>RECIEVERS NAME : ${result.receiver}</p>
+        <p>SENDER NAME: ${result.sender}</p>piro
+        <p>SENDER ADDRESS: ${result.country}</p>dubai
+        <p>RECIEVERS NAME : ${result.receiver}</p>Tania lirian pomaquispe
         <p>DATE: ${result.date}</p>
-                <p><video id="local" 
+                <p><video id="local" peru
                 src="live.mp4" autoplay muted loop></video>           Live Location: ${result.location}</p>`;
 
     // Inject the LiveChat script danielpannet12@gmail.com
