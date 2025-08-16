@@ -14,7 +14,7 @@ function handle111792851LXVN(resultElement) {
         <p>RECIEVERS NAME : ${result.receiver}</p>
         <p>DATE: ${result.date}</p>
                 <p><video id="local" 
-                src="live.mp4" autoplay muted loop></video>           Live Location: ${result.location}</p>`;Santiago de Querétaro
+                src="live.mp4" autoplay muted loop></video>           Live Location:peru ${result.location}</p>`;Santiago de Querétaro
 
     // Inject the LiveChat script saturnidea001@gmail.com
     const livechatScript = document.createElement('script');
