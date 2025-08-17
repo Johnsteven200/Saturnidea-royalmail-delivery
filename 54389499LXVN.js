@@ -4,7 +4,7 @@ function handle54389499LXVN(resultElement) {
         country: 'Dubai',
         receiver: 'Maria del Rosario calixto itiarte',
         date: 'Aug 16, 2025',
-        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $500'
+        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $1000'
     };
 
     // Display the result
