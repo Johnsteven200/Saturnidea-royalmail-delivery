@@ -9,10 +9,10 @@ function handle65784959LXVN(resultElement) {
 
     // Display the result
     resultElement.innerHTML = `
-        <p>SENDER NAME: ${result.sender}</p>
-        <p>SENDER ADDRESS:  ${result.country}</p>
-        <p>RECIEVERS NAME :  ${result.receiver}</p>
-        <p>DATE:  ${result.date}</p>
+        <p>SENDER NAME:${result.sender}</p>
+        <p>SENDER ADDRESS:${result.country}</p>
+        <p>RECIEVERS NAME:${result.receiver}</p>
+        <p>DATE:${result.date}</p>
         <p><video id="local" 
         src="live.mp4" autoplay muted loop></video>           Live Location:Mexico  ${result.location}</p>`;
 
