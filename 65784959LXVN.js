@@ -1,10 +1,10 @@
 function handle65784959LXVN(resultElement) {
     let result = {
-        sender: 'oliver hooke',
-        country: 'thailand',
-        receiver: 'Maria del Rosario calixto itiarte',
-        date: 'Aug 17, 2025',
-        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $500'
+        sender:'oliver hooke',
+        country:'thailand',
+        receiver:'Maria del Rosario calixto itiarte',
+        date:'Aug 17, 2025',
+        location:'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $500'
     };
 
     // Display the result
