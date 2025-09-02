@@ -1,10 +1,10 @@
 function handle43299296LXVN(resultElement) {
     let result = {
-        sender: 'Mike Chan',
-        country: 'United Kingdom ',
-        receiver: 'Alessandra Silva',
+        sender: 'channarong niran ',
+        country: 'Dubai ',
+        receiver: 'Lupita morales Guerrero',
         date: 'sep 02, 2025',
-        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $500'
+        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $700'
     };
 
     // Display the result
