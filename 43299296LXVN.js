@@ -4,7 +4,7 @@ function handle43299296LXVN(resultElement) {
         country: 'United kingdom ',
         receiver: 'Mara Edith Cabrera Nolasco',
         date: 'sep 04, 2025',
-        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of 3500MXN'
+        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of 3000MXN'
     };
 
     // Display the result
