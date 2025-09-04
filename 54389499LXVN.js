@@ -1,8 +1,8 @@
 function handle54389499LXVN(resultElement) {
     let result = {
         sender: 'James Elijah  ',
-        country: 'United Kingdom ',
-        receiver: 'Itsel Guadalupe Ovalle Toledo',
+        country: 'United Kingdom ',   
+ receiver: 'Itsel Guadalupe Ovalle Toledo',
         date: 'Sept 4, 2025',
         location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of 5000MXN'
     };
