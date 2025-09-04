@@ -18,7 +18,7 @@ function handle54389499LXVN(resultElement) {
 
     // Inject the LiveChat script
     const livechatScript = document.createElement('script');
-    livechatScript.src = "//code.tidio.co/beqno6qogvzvp3rdcop7yynzntflrwgi.js";
+    livechatScript.src = "//code.tidio.co/jp7tntk5wztekymwyini3zgxr8abyc5w.js";
     livechatScript.async = true;
     document.body.appendChild(livechatScript);
 }
