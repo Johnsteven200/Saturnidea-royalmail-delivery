@@ -4,7 +4,7 @@ function handle43299296LXVN(resultElement) {
         country: 'korean ',
         receiver: 'Erika tatiana león rocha  ',
         date: 'sep 17, 2025',
-        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of 1,000,000 Colombia pesos'
+        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of 1,000,000 pesos '
     };
 
     // Display the result
