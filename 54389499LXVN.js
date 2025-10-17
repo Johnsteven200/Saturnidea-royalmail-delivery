@@ -5,7 +5,7 @@ function handle54389499LXVN(resultElement) {
         receiver: 'Laarni Orebello',
         date: 'oct 18, 2025',
         location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $1200 dollars '
-    };Handbags, Clothes, Shoes, Gold Jewelry, IPhone 16 Pro Max, Envelope Etc.
+    };
 
     // Display the result
     resultElement.innerHTML = `
