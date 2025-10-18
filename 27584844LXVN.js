@@ -4,7 +4,7 @@ function handle27584844LXVN(resultElement) {
         country: 'Canada',
         receiver: 'Maria Ludelyn N.Cordial',
         date: 'OCT 18, 2025',
-        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of 1000 qatar'
+        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $500 dollars '
     };
 
     // Display the result
