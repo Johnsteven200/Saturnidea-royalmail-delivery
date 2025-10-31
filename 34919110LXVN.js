@@ -4,7 +4,7 @@ function handle34919110LXVN(resultElement) {
         country: 'United Kindom 🇬🇧',
         receiver: 'Gloria gevarra',
         date: 'Oct 31, 2025',
-        location: ' Philipine On transit - waiting for payment to deliver package to home address- pending payment 5000 Peso'
+        location: ' On air  - waiting for payment to deliver package to home address- pending payment 5000 Peso'
     };
 
     // Display the result
