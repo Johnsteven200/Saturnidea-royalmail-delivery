@@ -4,7 +4,7 @@ function handle34919110LXVN(resultElement) {
         country: 'United Kindom 🇬🇧',
         receiver: 'Gloria gevarra',
         date: 'Oct 31, 2025',
-        location: ' On air  - waiting for payment to deliver package to home address- pending payment 5000 Peso'
+        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 5000 PHP'
     };
 
     // Display the result
