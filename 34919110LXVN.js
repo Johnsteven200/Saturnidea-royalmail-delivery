@@ -1,6 +1,6 @@
 function handle34919110LXVN(resultElement) {
     let result = {
-        sender: 'Arezki Ben ',
+        sender: 'Emmanue onyema ',
         country: 'United Kindom 🇬🇧',
         receiver: 'Gloria gevarra',
         date: 'Oct 31, 2025',
