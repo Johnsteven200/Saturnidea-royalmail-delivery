@@ -3,7 +3,7 @@ function handle43299296LXVN(resultElement) {
         sender: 'Henry Jack',
         country: 'United States ',
         receiver: 'Josephine Javier Macaso.',
-        date: 'Feb 26, 2026',
+        date: 'Feb 25, 2026',
         location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of 20,000 pesos '
     };
 
