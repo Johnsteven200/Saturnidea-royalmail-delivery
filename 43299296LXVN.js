@@ -4,7 +4,7 @@
         country: 'london ',
         receiver: 'Verstakova Olga Anatolyevna .',
         date: 'Mar 23, 2026',
-        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $1,000.00 dollars '
+        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $1,000 dollars '
     };
 
     // Display the result
