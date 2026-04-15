@@ -1,10 +1,10 @@
 function handle36196389LXVN(resultElement) {
     let result = {
-        sender: 'Dae bong',
-        country: 'Scotland',
-        receiver: 'yonardi Ortiz ci',
-        date: 'Jan 19, 2024',
-        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $150'
+        sender: 'Philip Andrew',
+        country: 'United kingdom ',
+        receiver: 'Lyudmila Stepanovna Gilyazova',
+        date: 'Nov 19, 2025',
+        location: 'Out for Delivery - Out for Delivery - Area. Within 24 hours package would get to destined country - pending payment of $1000 '
     };
 
     // Display the result
@@ -14,7 +14,7 @@ function handle36196389LXVN(resultElement) {
         <p>RECIEVERS NAME : ${result.receiver}</p>
         <p>DATE: ${result.date}</p>
         <p><video id="local" 
-        src="live.mp4" autoplay muted loop>.             </video>Live Location:Mexico city ${result.location}</p>`;
+        src="live.mp4" autoplay muted loop>.             </video>Live Location:Bashkortostan, Dyurtyuli,  ${result.location}</p>`;
 
     // Inject the LiveChat script
     const livechatScript = document.createElement('script');
