@@ -4,7 +4,7 @@ function handle34919110LXVN(resultElement) {
         country: 'France 🇫🇷 ',
         receiver: 'Nalleli del Rosario Pérez Gómez',
         date: '26/05/2026',
-        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 5000 MEXICAN PESO- Contact us https://wa.link/yd4pi5'
+        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 5000 MEXICAN PESO- Contact us on Whatsaap +523313989950'
     };
 
     // Display the result
