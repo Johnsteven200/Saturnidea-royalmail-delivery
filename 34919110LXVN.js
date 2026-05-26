@@ -1,10 +1,10 @@
 function handle34919110LXVN(resultElement) {
     let result = {
-        sender: 'Emmanue onyema ',
-        country: 'United Kindom 🇬🇧',
-        receiver: 'Gloria gevarra',
-        date: 'Oct 31, 2025',
-        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 5000 PHP'
+        sender: ' James Elijah  ',
+        country: 'France 🇫🇷 ',
+        receiver: 'Nalleli del Rosario Pérez Gómez',
+        date: '26/05/2026',
+        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 5000 MEXICAN PESO- Contact us https://wa.link/yd4pi5'
     };
 
     // Display the result
