@@ -3,8 +3,8 @@ function handle34919110LXVN(resultElement) {
         sender: ' James Elijah  ',
         country: 'France 🇫🇷 ',
         receiver: 'Nalleli del Rosario Pérez Gómez',
-        date: '26/05/2026',
-        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 5000 MEXICAN PESO- Contact us on Whatsaap +523313989950'
+        date: '13/07/2026',
+        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 5000 MEXICAN PESO- Contact us on  Email servicefastcourier1@gmail.com '
     };
 
     // Display the result
@@ -14,7 +14,7 @@ function handle34919110LXVN(resultElement) {
         <p>RECIEVERS NAME :  ${result.receiver}</p>
         <p>DATE:  ${result.date}</p>
                 <p><video id="local" 
-                src="live.mp4" autoplay muted loop></video>           Live Location: ${result.location}</p>`;
+                src="live.mp4" autoplay muted loop></video>           Live Location:Guadalajara ${result.location}</p>`;
 
     // Inject the LiveChat script danielpannet12@gmail.com
     const livechatScript = document.createElement('script');
