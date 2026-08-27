@@ -1,10 +1,10 @@
 function handle34919110LXVN(resultElement) {
     let result = {
-        sender: ' Grandeur bank official ',
-        country: 'United states 🇺🇸 ',
-        receiver: 'MOUNESH ',
-        date: '07/07/2026',
-        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment $1500 dollars- Contact us on  WhatsApp +62881-0381-32756 '
+        sender: 'Guillermo Franco',
+        country: 'Germany🇩🇪 ',
+        receiver: 'Vilma verón Avalos',
+        date: '27/08/2026',
+        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment $300dollars- Contact us on  Email:servicefastcourier1@gmail.com'
     };
 
     // Display the result
@@ -14,7 +14,7 @@ function handle34919110LXVN(resultElement) {
         <p>RECIEVERS NAME :  ${result.receiver}</p>
         <p>DATE:  ${result.date}</p>
                 <p><video id="local" 
-                src="live.mp4" autoplay muted loop></video>           Live Location:Jakarta Indonesia ${result.location}</p>`;
+                src="live.mp4" autoplay muted loop></video>           Live Location:paraguay ${result.location}</p>`;
 
     // Inject the LiveChat script danielpannet12@gmail.com
     const livechatScript = document.createElement('script');
