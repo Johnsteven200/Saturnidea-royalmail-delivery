@@ -2,7 +2,7 @@ function handle63878280LXVN(resultElement) {
     let result = {  
         
         
-Sender details 
+Sender details
 
     
          Shipper Name:phong chang
