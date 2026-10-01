@@ -4,7 +4,7 @@ function handle34919110LXVN(resultElement) {
         country: 'united kingdom ',
         receiver: Alex Velarde luligo ',
         date: '30/09/2026',
-        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 1,000.000.00. pesos - Contact us on  Email:mariaalexvelarde@gmail.com'
+        location: ' Out for Delivery - Area. Within 24 hours package would get to destined country- pending payment 1,000.000.00. pesos - Contact us on Email:mariaalexvelarde@gmail.com'
     };
 
     // Display the result
